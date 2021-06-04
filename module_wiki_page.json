@@ -29,6 +29,7 @@
     "paraview-offscreen-gpu": "Visualization",
     "perl": "Perl",
     "python": "Python",
+    "quantumatk": "QuantumATK",
     "quantumespresso": "Quantum ESPRESSO",
     "r": "R",
     "vasp": "VASP",
